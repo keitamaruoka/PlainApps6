@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calendar</string>
+    <string name="today">Today</string>
+    <string name="prev_month">Previous month</string>
+    <string name="next_month">Next month</string>
+    <string name="menu">More options</string>
+    <string name="new_event">New event</string>
+    <string name="edit_event">Edit event</string>
+    <string name="no_events">No events</string>
+    <string name="need_permission">Allow calendar access to see and add events.\n\nTap to open settings.</string>
+    <string name="all_day">All day</string>
+    <string name="untitled">(No title)</string>
+    <string name="back">Back</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="title_hint">Title</string>
+    <string name="location_hint">Location</string>
+    <string name="notes_hint">Notes</string>
+    <string name="starts">Starts</string>
+    <string name="ends">Ends</string>
+    <string name="repeat">Repeat</string>
+    <string name="reminder">Reminder</string>
+    <string name="calendar">Calendar</string>
+    <string name="local_calendar">On this device</string>
+    <string name="repeat_none">Does not repeat</string>
+    <string name="repeat_daily">Every day</string>
+    <string name="repeat_weekly">Every week</string>
+    <string name="repeat_monthly">Every month</string>
+    <string name="repeat_yearly">Every year</string>
+    <string name="repeat_custom">Custom</string>
+    <string name="reminder_none">None</string>
+    <string name="reminder_at_start">At start time</string>
+    <string name="reminder_minutes">%d min before</string>
+    <string name="reminder_hours">%d hr before</string>
+    <string name="reminder_days">%d day before</string>
+    <string name="need_title">Please enter a title</string>
+    <string name="failed">Couldn\'t save</string>
+    <string name="delete_confirm">Delete this event?</string>
+    <string name="delete_repeat_confirm">Delete all occurrences of this repeating event?</string>
+    <string name="notify_on_device">Show reminders from this app</string>
+    <string name="channel_reminders">Event reminders</string>
+</resources>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Files</string>
+    <string name="back">Back</string>
+    <string name="menu">More options</string>
+    <string name="internal_storage">Internal storage</string>
+    <string name="free_space">%s free</string>
+    <plurals name="items">
+        <item quantity="one">%d item</item>
+        <item quantity="other">%d items</item>
+    </plurals>
+    <string name="need_permission">To browse your files, allow \"All files access\" for this app.\n\nThis app has no internet access, so your files never leave your phone.\n\nTap to allow.</string>
+    <string name="empty_folder">This folder is empty</string>
+    <string name="no_access_folder">This folder can\'t be opened</string>
+    <string name="open_with">Open with</string>
+    <string name="no_app">No app can open this file</string>
+    <string name="share">Share</string>
+    <string name="rename">Rename</string>
+    <string name="copy">Copy</string>
+    <string name="move">Move</string>
+    <string name="delete">Delete</string>
+    <string name="details">Details</string>
+    <string name="cancel">Cancel</string>
+    <string name="paste_here">Paste here</string>
+    <string name="copying">Copying \"%s\" — open a folder and paste</string>
+    <string name="moving">Moving \"%s\" — open a folder and paste</string>
+    <string name="into_itself">A folder can\'t be put inside itself</string>
+    <string name="new_folder">New folder</string>
+    <string name="new_folder_default">New folder</string>
+    <string name="bad_name">That name can\'t be used</string>
+    <string name="already_exists">Something with that name already exists</string>
+    <string name="delete_confirm">Delete \"%s\"? This can\'t be undone.</string>
+    <string name="failed">Something went wrong</string>
+    <string name="working">Working…</string>
+    <string name="info_name">Name</string>
+    <string name="info_location">Location</string>
+    <string name="info_size">Size</string>
+    <string name="info_modified">Modified</string>
+    <string name="sort">Sort by</string>
+    <string name="sort_by">Sort: %s</string>
+    <string name="sort_name">Name</string>
+    <string name="sort_date">Date</string>
+    <string name="sort_size">Size</string>
+    <string name="show_hidden">Show hidden files</string>
+    <string name="hide_hidden">Hide hidden files</string>
+    <string name="install">Install</string>
+    <string name="allow_install">Allow \"Install unknown apps\" for this app, then come back</string>
+</resources>

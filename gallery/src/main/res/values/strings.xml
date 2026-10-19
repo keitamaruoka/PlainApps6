@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gallery</string>
+    <string name="all">All photos</string>
+    <string name="trash">Trash</string>
+    <string name="back">Back</string>
+    <string name="count">%d items</string>
+    <string name="no_media">No photos or videos</string>
+    <string name="need_permission">Allow access to photos and videos to see them here.\n\nTap to allow.</string>
+    <string name="partial_access">Showing only the photos you selected. Tap to change.</string>
+    <string name="empty_trash">Empty</string>
+    <string name="play">Play</string>
+    <string name="share">Share</string>
+    <string name="info">Details</string>
+    <string name="delete">Delete</string>
+    <string name="restore">Restore</string>
+    <string name="delete_forever">Delete forever</string>
+    <string name="delete_confirm">Delete this item? This can\'t be undone.</string>
+    <string name="failed">Something went wrong</string>
+    <string name="cannot_open">Can\'t open this file</string>
+    <string name="location_removed">Location data removed before sharing</string>
+    <string name="info_name">Name</string>
+    <string name="info_date">Date</string>
+    <string name="info_size">Size</string>
+    <string name="info_album">Album</string>
+    <string name="info_resolution">Resolution</string>
+    <string name="info_duration">Length</string>
+    <string name="info_type">Type</string>
+    <string name="info_privacy">When you share this photo, its location data is removed automatically.</string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">電卓</string>
+    <string name="err_div_zero">0で割ることはできません</string>
+    <string name="err_syntax">式が完成していません</string>
+    <string name="cd_divide">割る</string>
+    <string name="cd_multiply">掛ける</string>
+    <string name="cd_minus">引く</string>
+    <string name="cd_plus">足す</string>
+    <string name="cd_percent">パーセント</string>
+    <string name="cd_paren">かっこ</string>
+    <string name="cd_equals">イコール</string>
+    <string name="cd_clear">クリア</string>
+    <string name="cd_backspace">1文字削除</string>
+    <string name="cd_point">小数点</string>
+</resources>

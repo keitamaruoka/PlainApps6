@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="err_div_zero">Can\'t divide by zero</string>
+    <string name="err_syntax">Incomplete expression</string>
+    <string name="cd_divide">divide</string>
+    <string name="cd_multiply">multiply</string>
+    <string name="cd_minus">minus</string>
+    <string name="cd_plus">plus</string>
+    <string name="cd_percent">percent</string>
+    <string name="cd_paren">parentheses</string>
+    <string name="cd_equals">equals</string>
+    <string name="cd_clear">clear</string>
+    <string name="cd_backspace">delete</string>
+    <string name="cd_point">point</string>
+</resources>

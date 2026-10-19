@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Alarm</string>
+    <string name="channel_alarm">Ringing alarms</string>
+    <string name="add">Add alarm</string>
+    <string name="empty">No alarms yet.\nTap + to add one.</string>
+    <string name="no_alarm">No alarms are on</string>
+    <string name="next_in">Next alarm %s</string>
+    <string name="set_in">Alarm set for %s</string>
+    <string name="until_dhm">in %1$dd %2$dh %3$dm</string>
+    <string name="until_hm">in %1$dh %2$dm</string>
+    <string name="until_m">in %d min</string>
+    <string name="once">Once</string>
+    <string name="every_day">Every day</string>
+    <string name="weekdays">Weekdays</string>
+    <string name="weekends">Weekends</string>
+    <string name="repeat">Repeat</string>
+    <string name="label_hint">Label</string>
+    <string name="vibrate">Vibrate</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="delete_confirm">Delete the %s alarm?</string>
+    <string name="stop">Stop</string>
+    <string name="snooze_short">Snooze %d min</string>
+    <string name="snooze_long">Snooze (%d min)</string>
+    <string name="need_notif">Notifications are off, so alarms may not show. Tap to turn them on.</string>
+    <string name="need_exact">Allow \"Alarms &amp; reminders\" so alarms ring on time. Tap to open settings.</string>
+    <string name="need_fullscreen">Allow full-screen notifications so the alarm screen can appear. Tap to open settings.</string>
+</resources>

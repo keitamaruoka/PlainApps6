@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">カメラ</string>
+    <string name="photo">写真</string>
+    <string name="video">動画</string>
+    <string name="shutter">撮影</string>
+    <string name="start_recording">録画開始</string>
+    <string name="stop_recording">録画停止</string>
+    <string name="switch_camera">カメラ切り替え</string>
+    <string name="last_capture">直前に撮った写真・動画を開く</string>
+    <string name="flash_off">オフ</string>
+    <string name="flash_auto">自動</string>
+    <string name="flash_on">オン</string>
+    <string name="light_off">ライト オフ</string>
+    <string name="light_on">ライト オン</string>
+    <string name="need_camera">写真を撮るにはカメラの許可が必要です</string>
+    <string name="camera_error">カメラを起動できませんでした</string>
+    <string name="save_failed">保存できませんでした</string>
+    <string name="no_viewer">開けるアプリがありません</string>
+    <string name="qr">QRコード</string>
+    <string name="qr_hint">QRコードを枠の中に写してください</string>
+    <string name="qr_link">リンク</string>
+    <string name="qr_link_message">%s\n\n開く前に、アドレスに間違いがないか確認してください。</string>
+    <string name="qr_open">開く</string>
+    <string name="qr_copy">コピー</string>
+    <string name="qr_share">共有</string>
+    <string name="qr_close">閉じる</string>
+    <string name="qr_text">テキスト</string>
+    <string name="qr_wifi">Wi-Fi</string>
+    <string name="qr_wifi_message">ネットワーク名：%1$s\nパスワード：%2$s</string>
+    <string name="qr_copy_password">パスワードをコピー</string>
+    <string name="qr_wifi_settings">Wi-Fi設定</string>
+    <string name="copied">コピーしました</string>
+</resources>

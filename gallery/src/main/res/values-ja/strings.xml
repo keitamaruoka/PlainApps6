@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ギャラリー</string>
+    <string name="all">すべての写真</string>
+    <string name="trash">ゴミ箱</string>
+    <string name="back">戻る</string>
+    <string name="count">%d件</string>
+    <string name="no_media">写真や動画はありません</string>
+    <string name="need_permission">写真と動画を表示するには、アクセスを許可してください。\n\nタップして許可</string>
+    <string name="partial_access">選んだ写真だけを表示しています。タップして変更</string>
+    <string name="empty_trash">空にする</string>
+    <string name="play">再生</string>
+    <string name="share">共有</string>
+    <string name="info">詳細</string>
+    <string name="delete">削除</string>
+    <string name="restore">元に戻す</string>
+    <string name="delete_forever">完全に削除</string>
+    <string name="delete_confirm">削除しますか？元に戻すことはできません。</string>
+    <string name="failed">うまくいきませんでした</string>
+    <string name="cannot_open">このファイルは開けません</string>
+    <string name="location_removed">位置情報を消してから共有します</string>
+    <string name="info_name">名前</string>
+    <string name="info_date">日時</string>
+    <string name="info_size">サイズ</string>
+    <string name="info_album">アルバム</string>
+    <string name="info_resolution">解像度</string>
+    <string name="info_duration">長さ</string>
+    <string name="info_type">形式</string>
+    <string name="info_privacy">この写真を共有するときは、位置情報が自動で消されます。</string>
+</resources>

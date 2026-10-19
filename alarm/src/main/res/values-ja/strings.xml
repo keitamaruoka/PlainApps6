@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">アラーム</string>
+    <string name="channel_alarm">鳴っているアラーム</string>
+    <string name="add">アラームを追加</string>
+    <string name="empty">アラームはまだありません。\n＋ボタンで追加できます。</string>
+    <string name="no_alarm">オンのアラームはありません</string>
+    <string name="next_in">次のアラームは%s</string>
+    <string name="set_in">%sに鳴ります</string>
+    <string name="until_dhm">%1$d日%2$d時間%3$d分後</string>
+    <string name="until_hm">%1$d時間%2$d分後</string>
+    <string name="until_m">%d分後</string>
+    <string name="once">1回のみ</string>
+    <string name="every_day">毎日</string>
+    <string name="weekdays">平日</string>
+    <string name="weekends">土日</string>
+    <string name="repeat">繰り返し</string>
+    <string name="label_hint">ラベル</string>
+    <string name="vibrate">バイブレーション</string>
+    <string name="save">保存</string>
+    <string name="cancel">キャンセル</string>
+    <string name="delete">削除</string>
+    <string name="delete_confirm">%sのアラームを削除しますか？</string>
+    <string name="stop">停止</string>
+    <string name="snooze_short">%d分スヌーズ</string>
+    <string name="snooze_long">スヌーズ（%d分）</string>
+    <string name="need_notif">通知がオフのため、アラームが表示されない場合があります。タップしてオンにしてください。</string>
+    <string name="need_exact">時間どおりに鳴らすには「アラームとリマインダー」の許可が必要です。タップして設定を開きます。</string>
+    <string name="need_fullscreen">アラーム画面を表示するには「全画面通知」の許可が必要です。タップして設定を開きます。</string>
+</resources>

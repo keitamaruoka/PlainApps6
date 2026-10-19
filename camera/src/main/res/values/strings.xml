@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Camera</string>
+    <string name="photo">Photo</string>
+    <string name="video">Video</string>
+    <string name="shutter">Take photo</string>
+    <string name="start_recording">Start recording</string>
+    <string name="stop_recording">Stop recording</string>
+    <string name="switch_camera">Switch camera</string>
+    <string name="last_capture">Open last photo or video</string>
+    <string name="flash_off">Off</string>
+    <string name="flash_auto">Auto</string>
+    <string name="flash_on">On</string>
+    <string name="light_off">Light off</string>
+    <string name="light_on">Light on</string>
+    <string name="need_camera">Camera access is needed to take photos</string>
+    <string name="camera_error">Couldn\'t start the camera</string>
+    <string name="save_failed">Couldn\'t save</string>
+    <string name="no_viewer">No app can open this</string>
+    <string name="qr">QR code</string>
+    <string name="qr_hint">Point the camera at a QR code</string>
+    <string name="qr_link">Link</string>
+    <string name="qr_link_message">%s\n\nCheck the address before opening it.</string>
+    <string name="qr_open">Open</string>
+    <string name="qr_copy">Copy</string>
+    <string name="qr_share">Share</string>
+    <string name="qr_close">Close</string>
+    <string name="qr_text">Text</string>
+    <string name="qr_wifi">Wi-Fi</string>
+    <string name="qr_wifi_message">Network: %1$s\nPassword: %2$s</string>
+    <string name="qr_copy_password">Copy password</string>
+    <string name="qr_wifi_settings">Wi-Fi settings</string>
+    <string name="copied">Copied</string>
+</resources>

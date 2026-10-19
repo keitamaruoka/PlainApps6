@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ファイル</string>
+    <string name="back">戻る</string>
+    <string name="menu">その他のオプション</string>
+    <string name="internal_storage">内部ストレージ</string>
+    <string name="free_space">空き %s</string>
+    <plurals name="items">
+        <item quantity="other">%d項目</item>
+    </plurals>
+    <string name="need_permission">ファイルを表示するには、このアプリに「すべてのファイルへのアクセス」を許可してください。\n\nこのアプリはインターネットに接続しないので、ファイルが端末の外に出ることはありません。\n\nタップして許可</string>
+    <string name="empty_folder">このフォルダは空です</string>
+    <string name="no_access_folder">このフォルダは開けません</string>
+    <string name="open_with">ほかのアプリで開く</string>
+    <string name="no_app">このファイルを開けるアプリがありません</string>
+    <string name="share">共有</string>
+    <string name="rename">名前を変更</string>
+    <string name="copy">コピー</string>
+    <string name="move">移動</string>
+    <string name="delete">削除</string>
+    <string name="details">詳細</string>
+    <string name="cancel">キャンセル</string>
+    <string name="paste_here">ここに貼り付け</string>
+    <string name="copying">「%s」をコピー中：貼り付け先のフォルダを開いてください</string>
+    <string name="moving">「%s」を移動中：移動先のフォルダを開いてください</string>
+    <string name="into_itself">フォルダをそのフォルダ自身の中には入れられません</string>
+    <string name="new_folder">新しいフォルダ</string>
+    <string name="new_folder_default">新しいフォルダ</string>
+    <string name="bad_name">その名前は使えません</string>
+    <string name="already_exists">同じ名前のものがすでにあります</string>
+    <string name="delete_confirm">「%s」を削除しますか？元に戻すことはできません。</string>
+    <string name="failed">うまくいきませんでした</string>
+    <string name="working">処理しています…</string>
+    <string name="info_name">名前</string>
+    <string name="info_location">場所</string>
+    <string name="info_size">サイズ</string>
+    <string name="info_modified">更新日時</string>
+    <string name="sort">並べ替え</string>
+    <string name="sort_by">並べ替え：%s</string>
+    <string name="sort_name">名前順</string>
+    <string name="sort_date">日付順</string>
+    <string name="sort_size">サイズ順</string>
+    <string name="show_hidden">隠しファイルを表示</string>
+    <string name="hide_hidden">隠しファイルを隠す</string>
+    <string name="install">インストール</string>
+    <string name="allow_install">このアプリに「不明なアプリのインストール」を許可して、戻ってきてください</string>
+</resources>

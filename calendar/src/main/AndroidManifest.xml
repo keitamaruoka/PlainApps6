@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  インターネット接続の権限はありません。
+  予定はAndroid標準のカレンダー保存領域に保存します。新しい予定は、どこにも同期されない「端末のみ」のカレンダーに入ります。
+-->
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <uses-permission android:name="android.permission.READ_CALENDAR" />
+    <uses-permission android:name="android.permission.WRITE_CALENDAR" />
+    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+
+    <application
+        android:allowBackup="false"
+        android:enableOnBackInvokedCallback="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.APP_CALENDAR" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".EventActivity"
+            android:exported="false"
+            android:windowSoftInputMode="adjustResize" />
+
+        <!-- 予定の通知の時間になったら、Androidのカレンダー機能から呼ばれる -->
+        <receiver
+            android:name=".ReminderReceiver"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.EVENT_REMINDER" />
+                <data android:scheme="content" />
+            </intent-filter>
+        </receiver>
+    </application>
+</manifest>
