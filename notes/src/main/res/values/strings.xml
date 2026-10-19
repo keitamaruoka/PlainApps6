@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="new_note">New note</string>
+    <string name="search">Search</string>
+    <string name="search_hint">Search notes</string>
+    <string name="empty">No notes yet.\nTap + to write one.</string>
+    <string name="no_results">No matching notes</string>
+    <string name="untitled">Untitled</string>
+    <string name="note_hint">Write something…</string>
+    <string name="back">Back</string>
+    <string name="share">Share</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete_confirm">Delete \"%s\"?</string>
+    <string name="delete_this">Delete this note?</string>
+    <string name="edited">Edited %s</string>
+    <plurals name="chars">
+        <item quantity="one">%d character</item>
+        <item quantity="other">%d characters</item>
+    </plurals>
+</resources>

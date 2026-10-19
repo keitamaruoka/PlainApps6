@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Videos</string>
+    <string name="back">Back</string>
+    <string name="folders">Folders</string>
+    <string name="all_videos">All videos (%d)</string>
+    <string name="count">%d videos</string>
+    <string name="no_videos">No videos</string>
+    <string name="need_permission">Allow access to videos to see them here.\n\nTap to allow.</string>
+    <string name="partial_access">Showing only the videos you selected. Tap to change.</string>
+    <string name="resume_from">Resume from %s</string>
+    <string name="play_pause">Play or pause</string>
+    <string name="speed">Playback speed</string>
+    <string name="skip_forward">+10 sec</string>
+    <string name="skip_back">−10 sec</string>
+    <string name="cannot_play">Can\'t play this video</string>
+</resources>

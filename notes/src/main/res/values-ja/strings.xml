@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">メモ</string>
+    <string name="new_note">新しいメモ</string>
+    <string name="search">検索</string>
+    <string name="search_hint">メモを検索</string>
+    <string name="empty">メモはまだありません。\n＋ボタンで書き始めましょう。</string>
+    <string name="no_results">見つかりませんでした</string>
+    <string name="untitled">無題</string>
+    <string name="note_hint">ここに入力…</string>
+    <string name="back">戻る</string>
+    <string name="share">共有</string>
+    <string name="delete">削除</string>
+    <string name="cancel">キャンセル</string>
+    <string name="delete_confirm">「%s」を削除しますか？</string>
+    <string name="delete_this">このメモを削除しますか？</string>
+    <string name="edited">%sに更新</string>
+    <plurals name="chars">
+        <item quantity="other">%d文字</item>
+    </plurals>
+</resources>

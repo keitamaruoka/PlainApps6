@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">動画</string>
+    <string name="back">戻る</string>
+    <string name="folders">フォルダ</string>
+    <string name="all_videos">すべての動画（%d）</string>
+    <string name="count">%d本</string>
+    <string name="no_videos">動画はありません</string>
+    <string name="need_permission">動画を表示するには、アクセスを許可してください。\n\nタップして許可</string>
+    <string name="partial_access">選んだ動画だけを表示しています。タップして変更</string>
+    <string name="resume_from">%sから再生</string>
+    <string name="play_pause">再生・一時停止</string>
+    <string name="speed">再生速度</string>
+    <string name="skip_forward">10秒進む</string>
+    <string name="skip_back">10秒戻る</string>
+    <string name="cannot_play">この動画は再生できません</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="fg">#FFFFFFFF</color>
+    <color name="bg">#FF000000</color>
+    <color name="sub">#FF9E9E9E</color>
+    <color name="line">#FF262626</color>
+    <color name="key">#FF1A1A1A</color>
+</resources>
